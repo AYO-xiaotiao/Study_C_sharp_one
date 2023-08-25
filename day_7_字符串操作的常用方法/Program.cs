@@ -23,7 +23,8 @@ namespace day_7_字符串操作的常用方法
             }
             Console.ReadKey();
 
-            //
+            //倒序遍历
+
 
         }
     }
